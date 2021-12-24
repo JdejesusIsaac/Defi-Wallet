@@ -1,5 +1,5 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const mnemonic = "idle cricket traffic buffalo crush plunge thunder gun uncover atom zone early";
+const mnemonic = "";
 
 
 
